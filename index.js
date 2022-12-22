@@ -1,3 +1,5 @@
+// Stock Market Portfolio App by Steven Harris
+
 const express = require('express');
 const app = express();
 const { engine } = require('express-handlebars');
